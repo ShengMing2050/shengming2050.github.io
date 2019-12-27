@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "A walking guide to top verifier " 
+description: "A Walking Guide To a Top Verifier " 
 header-img: "img/green.jpg"
 ---
 
